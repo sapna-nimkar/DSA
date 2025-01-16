@@ -1,4 +1,3 @@
-from typing import List, Dict, Set
 
 '''
 determine a string s is a palindrome

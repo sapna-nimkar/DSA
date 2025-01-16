@@ -1,4 +1,4 @@
-from typing import List, Dict
+from typing import List
 
 '''
 3Sum : in an array, determine such 3 numbers whose sum is equal to a given target number
